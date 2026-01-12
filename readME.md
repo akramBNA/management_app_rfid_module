@@ -1,0 +1,3 @@
+# RFID ACCESS MODULE FOR THE CONTRACTOR'S MANAGEMENT WEB APPLICATION
+
+## This module is still in development mode
